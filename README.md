@@ -1,6 +1,6 @@
 # parallele-verteilte-systeme
 
-**Name:** Sinan XYZ  
+**Name:** Sinan Agtas  
 **Matrikelnummer:** 768498
 
 ---
