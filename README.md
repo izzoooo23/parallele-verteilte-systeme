@@ -35,7 +35,7 @@ Ziel ist es, eine einfache verteilte Applikation zu bauen, die die 12-Factor App
 1. Repository klonen:
 
 ```bash
-git clone <dein-github-repo-link>
+git clone https://github.com/izzoooo23/parallele-verteilte-systeme
 cd parallele-verteilte-systeme
 ```
 
