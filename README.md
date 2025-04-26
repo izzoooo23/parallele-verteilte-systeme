@@ -6,9 +6,6 @@
 ---
 
 ## Projektübersicht
-...
-
-## Projektübersicht
 
 Dieses Projekt besteht aus:
 - einem **Backend** (Node.js + Express)
