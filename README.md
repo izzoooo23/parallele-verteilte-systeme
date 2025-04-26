@@ -1,7 +1,5 @@
 # parallele-verteilte-systeme
 
-# parallele-verteilte-systeme
-
 **Name:** Sinan XYZ  
 **Matrikelnummer:** 768498
 
