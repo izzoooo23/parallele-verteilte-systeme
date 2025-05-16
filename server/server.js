@@ -1,3 +1,4 @@
+
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
@@ -16,6 +17,11 @@ app.use("/api/items", itemsRouter);
 
 // Swagger Docs
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+
+// Optional: Info auf /
+app.get("/", (req, res) => {
+  res.send("✅ Backend läuft! Nutze /api/items oder /api-docs");
+});
 
 // Server starten
 app.listen(port, () => {
